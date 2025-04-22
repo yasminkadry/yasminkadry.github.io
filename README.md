@@ -65,6 +65,7 @@ Designed and queried large-scale data using MongoDB and explored use cases where
 - 🛢️ Databases: SQL, NoSQL (MongoDB)
 
 ---
+Visit my portfolio here:(https://yasminkadry.github.io/)
 
 ✨ Thanks for visiting my AI portfolio!  
 Feel free to explore the projects and check out the code. 🚀
